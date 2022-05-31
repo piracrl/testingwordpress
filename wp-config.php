@@ -84,6 +84,7 @@ define( 'WP_DEBUG', false );
 
 
 
+define('VP_ENVIRONMENT', 'default');
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
